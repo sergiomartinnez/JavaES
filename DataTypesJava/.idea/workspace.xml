@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DataTypesJava:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e7cff5b-3054-424a-a690-8043a977f7cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Curso Java SE/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java SE/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LogicOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/Curso Java SE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/out/production/Curso Java SE/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/out/production/Curso Java SE/NamingJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/out/production/Curso Java SE/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/out/production/Curso Java SE/updatevariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/src/HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/src/NamingJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/src/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/Curso Java SE/src/updatevariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/DataTypesJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/artifacts/DataTypesJava_jar/DataTypesJava.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/Family.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/Funciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/LogicOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/MathematicOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/out/production/DataTypesJava/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/Casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/Family.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/IncrementDecrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/LogicOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/MathematicOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/SwitchStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/DataTypesJava/src/WhileLoop.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uUtAv5jFi4SHMzQI7F22HLz2lY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Application.WhileLoop">
+    <configuration name="Arrays" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="DataTypesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
+      <module name="DataTypesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+      <module name="DataTypesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions" />
+      <module name="DataTypesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+      <module name="DataTypesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.Functions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7cff5b-3054-424a-a690-8043a977f7cd" name="Default Changelist" comment="" />
+      <created>1624731861303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624731861303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

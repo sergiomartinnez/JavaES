@@ -4,19 +4,19 @@ public class SwitchStatement {
         String colorModeSelected = "Dark";
         switch (colorModeSelected){
             case "Light":
-                System.out.println("Choosed Light Mode");
+                System.out.println("Seleccionaste Light Mode");
                 break;
             case "Night":
-                System.out.println("Choosed Night Mode");
+                System.out.println("Seleccionaste Night Mode");
                 break;
             case "Blue Dark":
-                System.out.println("Choosed Blue dark Mode");
+                System.out.println("Seleccionaste Blue dark Mode");
                 break;
             case "Dark":
-                System.out.println("Choosed Dark Mode");
+                System.out.println("Seleccionaste Dark Mode");
                 break;
             default:
-                System.out.println("Choose an option");
+                System.out.println("Selecciona una opcion");
         }
 
     }

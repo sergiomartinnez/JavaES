@@ -6,10 +6,10 @@ public class IfStatement {
         if (isBluetoothEnabled){
             //send file
             filesended++;
-            System.out.println("file sended");
+            System.out.println("archivo enviado");
         }else {
             filesended--;
-            System.out.println("Please turn on the bluetooth to start the transfer");
+            System.out.println("Por favor enciende el bluetooth para iniciar la transferencia");
 
         }
 
